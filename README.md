@@ -17,7 +17,22 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshatgoel-143&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-### About Me:    
+### About Me:
+Hello! I'm Akshat Goel, a passionate Software Engineer. I love building innovative solutions and exploring new technologies. My primary interests include:
+
+#### Programming Languages:
+PYTHON-PHP-HTML-CSS-JS
+#### Frameworks/Technologies:
+Django-Flask-Codeigniter-Laravel-Bootsrap
+#### Interests:
+Web Development, Game Development
+#### Projects:
+I enjoy working on projects that challenge me to learn and grow. Check out my repositories to see some of my work!
+
+### My Goals
+* Learn: Continuously enhance my skills and explore new areas in technology.
+* Contribute: Engage with the open-source community and contribute to meaningful projects.
+* Collaborate: Connect with like-minded individuals to create impactful solutions.
 
 ### Social media: 📡    
 
