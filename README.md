@@ -18,43 +18,10 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
-       
-   
 ### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
-## Competitions: 🥇
- 
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
 
 ### Working on: 🚀
-
-- Learning [GO](https://github.com/sammorozov/go_ilya_kruk)
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
 
 
 ## Languages and Tools 
@@ -75,7 +42,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 
 
-### My tools for Data Manipulation & Visualisation:
+### Tools for Data Manipulation & Visualisation:
 
 | Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
 |----------|----------|----------|----------|----------|----------|----------|----------|
@@ -102,7 +69,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |----------|----------|----------|----------|----------|
 |<img src="assets/meta.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
 
-<!--
+
 
 ### It's not technology, but I use it. The section will be changed soon.:
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
@@ -117,7 +84,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
---> 
+
 </div>
 
 ---
