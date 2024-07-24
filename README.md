@@ -83,8 +83,7 @@ Here are some ideas to get you started:
   
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=akshatgoel-143&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=akshatgoel-143&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akshatgoel-143&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
 
 
 ---
