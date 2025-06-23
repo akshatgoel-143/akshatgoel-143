@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Hello! I'm Akshat Goel, a passionate Software Engineer. I love building innovative solutions and exploring new technologies. My primary interests include:
 
 #### Programming Languages:
-PYTHON-PHP-HTML-CSS-JS
+JAVA-PYTHON-PHP-HTML-CSS-JS
 #### Frameworks/Technologies:
 Django-Flask-Codeigniter-Laravel-Bootsrap
 #### Interests:
